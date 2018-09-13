@@ -1,0 +1,28 @@
+_repo: The-Mentor-American-Novelists-Vol-1-No-25_51560
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mabie, Hamilton Wright
+    alias: Mabie, Hamilton W. (Hamilton Wright)
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1421'
+    url: http://www.gutenberg.org/2009/agents/1421
+    wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
+description: ''
+gutenberg_issued: '2016-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51560'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Authors, American'
+- GITenberg
+tableOfContents: American novelists -- Henry James -- William Dean Howells -- Thomas
+  Nelson Page -- James Lane Allen -- Winston Churchill -- Owen Wister.
+title: 'The Mentor: American Novelists, Vol. 1, No. 25'
+url: http://www.gutenberg.org/ebooks/51560
